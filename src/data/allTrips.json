@@ -1,0 +1,19 @@
+{
+    "trips": [
+        {
+            "id": 0,
+            "name": "Spring Break",
+            "img": "assets/trip1.jpeg"
+        },
+        {
+            "id": 1,
+            "name": "New York City",
+            "img": "assets/trip2.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Girls Trip!",
+            "img": "assets/trip3.jpg"
+        }
+    ]
+}
